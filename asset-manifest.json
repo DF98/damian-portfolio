@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/damian-portfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/damian-portfolio/static/js/main.f3496002.chunk.js",
+    "main.js.map": "/damian-portfolio/static/js/main.f3496002.chunk.js.map",
+    "runtime-main.js": "/damian-portfolio/static/js/runtime-main.8d79236c.js",
+    "runtime-main.js.map": "/damian-portfolio/static/js/runtime-main.8d79236c.js.map",
+    "static/js/2.6cedcc36.chunk.js": "/damian-portfolio/static/js/2.6cedcc36.chunk.js",
+    "static/js/2.6cedcc36.chunk.js.map": "/damian-portfolio/static/js/2.6cedcc36.chunk.js.map",
+    "static/js/3.50946a3d.chunk.js": "/damian-portfolio/static/js/3.50946a3d.chunk.js",
+    "static/js/3.50946a3d.chunk.js.map": "/damian-portfolio/static/js/3.50946a3d.chunk.js.map",
+    "index.html": "/damian-portfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/damian-portfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6cedcc36.chunk.js.LICENSE.txt": "/damian-portfolio/static/js/2.6cedcc36.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/damian-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d79236c.js",
+    "static/js/2.6cedcc36.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.f3496002.chunk.js"
+  ]
+}
