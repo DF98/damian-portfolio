@@ -1,23 +1,18 @@
 {
-  "files": {
-    "main.css": "/damian-portfolio/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/damian-portfolio/static/js/main.f3496002.chunk.js",
-    "main.js.map": "/damian-portfolio/static/js/main.f3496002.chunk.js.map",
-    "runtime-main.js": "/damian-portfolio/static/js/runtime-main.8d79236c.js",
-    "runtime-main.js.map": "/damian-portfolio/static/js/runtime-main.8d79236c.js.map",
-    "static/js/2.6cedcc36.chunk.js": "/damian-portfolio/static/js/2.6cedcc36.chunk.js",
-    "static/js/2.6cedcc36.chunk.js.map": "/damian-portfolio/static/js/2.6cedcc36.chunk.js.map",
-    "static/js/3.50946a3d.chunk.js": "/damian-portfolio/static/js/3.50946a3d.chunk.js",
-    "static/js/3.50946a3d.chunk.js.map": "/damian-portfolio/static/js/3.50946a3d.chunk.js.map",
-    "index.html": "/damian-portfolio/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/damian-portfolio/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.6cedcc36.chunk.js.LICENSE.txt": "/damian-portfolio/static/js/2.6cedcc36.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/damian-portfolio/static/media/logo.6ce24c58.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.8d79236c.js",
-    "static/js/2.6cedcc36.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.f3496002.chunk.js"
-  ]
+  "main.css": "static/css/main.7d1aa760.css",
+  "main.css.map": "static/css/main.7d1aa760.css.map",
+  "main.js": "static/js/main.47fb160f.js",
+  "main.js.map": "static/js/main.47fb160f.js.map",
+  "static/js/0.430ace57.chunk.js": "static/js/0.430ace57.chunk.js",
+  "static/js/0.430ace57.chunk.js.map": "static/js/0.430ace57.chunk.js.map",
+  "static/media/C++.png": "static/media/C++.f278be79.png",
+  "static/media/adecco_amazon_logo.png": "static/media/adecco_amazon_logo.dc1764dc.png",
+  "static/media/cake-logo.svg": "static/media/cake-logo.490241b3.svg",
+  "static/media/code.jpg": "static/media/code.4ee9ace3.jpg",
+  "static/media/experience-image.jpg": "static/media/experience-image.8784cb96.jpg",
+  "static/media/linkedin-profile-img.jfif": "static/media/linkedin-profile-img.0e7cd2ba.jfif",
+  "static/media/logo.svg": "static/media/logo.06e73328.svg",
+  "static/media/project_planning.jpg": "static/media/project_planning.5cae4e0c.jpg",
+  "static/media/serco_ATO_logo.png": "static/media/serco_ATO_logo.a7d964c3.png",
+  "static/media/teamwork.jpg": "static/media/teamwork.ebaec89b.jpg"
 }
